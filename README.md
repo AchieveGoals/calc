@@ -7,7 +7,7 @@ In "demo1" to "demo5" in Modules, it used a calc package and showed how it could
 
 Along the way, you got a feel of the ways that a module could call external components and of course that means you could imagine a Sprint by a Scrum team working separately to deliver different value of the overall app that will come together.  Along with the benefits, the author/presenter did a good job of covering the thought processes and any shortcomings that would occur if you had to now have the package or module run on a different machine. 
 
-In "demo6", one solution is to use an external repository -- but instead of staying with the inventory example with simple components -- demo6 reach out to what I thought ws an over the top Github respository with so many dependencies. In my opinion, it was just too much -- I don't know the author of the respository "faker" and was not ready to lose focus by doing my normal security due diligence rather than just putting an example together with 'calc' on git6hub.
+In "demo6", one solution is to use an external repository -- but instead of staying with the inventory example with simple components -- demo6 reach out to what I thought was an over the top Github respository with so many dependencies. In my opinion, it was just too much -- I don't know the author of the respository "faker" and was not ready to lose focus by doing my normal security due diligence rather than just putting an example together with 'calc' on github.
 
 That's was this is -- just a place for calc.go from the course to be called, so that all the new lessons on changes to go.mod and the inclusion of go.sum could be understood. 
 
