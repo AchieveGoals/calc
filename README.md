@@ -1,7 +1,7 @@
 # calc
 used to demonstrate managing go projects (demo 4 / 5) module 3 - see PluralSight
 
-The PluralSight course, Managing Go Projects, changes from the first section on package to the benefits and capabilities of the second section - modules.
+The PluralSight course, Managing Go Projects, changes from the first section on package to the benefits and capabilities of the second section - modules. For any content references or use other than use of this repository, must go to PluralSight and speak with the author of "Managing Go Projects" released in 2023.
 
 In "demo1" to "demo5" in Modules, it used a calc package and showed how it could be deployed as package within same folder as demo module, and later as a package under $GOROOT/src/calc.
 
