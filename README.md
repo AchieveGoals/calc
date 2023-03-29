@@ -9,7 +9,7 @@ Along the way, you got a feel of the ways that a module could call external comp
 
 In "demo6", one solution is to use an external repository -- but instead of staying with the inventory example with simple components -- demo6 reach out to what I thought was an over the top Github respository with so many dependencies. In my opinion, it was just too much -- I don't know the author of the respository "faker" and was not ready to lose focus by doing my normal security due diligence rather than just putting an example together with 'calc' on github.
 
-That's was this is -- just a place for calc.go from the course to be called, so that all the new lessons on changes to go.mod and the inclusion of go.sum could be understood. 
+That's what this is -- just an external placeholder for calc.go from the course to be called, so that all the new lessons on changes to go.mod and the inclusion of go.sum could be understood. 
 
 My session for demo6:
 ```
